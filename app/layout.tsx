@@ -3,7 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 import Link from "next/link";
-import { Linkedin, Github, Home} from 'lucide-react';
+import { Home } from 'lucide-react';
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
