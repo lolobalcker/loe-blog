@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "posts/first-post/first-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "first-post"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "c512f382662751be",
   "lastOpenFiles": [
+    "README.md",
     "app/faviconll.ico",
     "public/docs/snop.png",
     "public/docs/1e0d9391-12a0-409b-b508-16e33f415475_20250223_155216_0000.png",
