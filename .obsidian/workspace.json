@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/first-post/first-post.md",
+                "file": "posts/batatinha/batatinha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first-post"
+              "title": "batatinha"
             }
           }
         ]
@@ -181,6 +181,12 @@
   },
   "active": "91d9011380c343cf",
   "lastOpenFiles": [
+    "posts/batatinha/pochaco.webp",
+    "posts/batatinha/pochaco.webp.opdownload",
+    "posts/first-post/first-post.md",
+    "posts/batatinha/batatinha.md",
+    "posts/batatinha",
+    "README.md",
     "posts/first-post/sonic.gif",
     "posts/first-post/fisrt-post.md",
     "posts/linux-swap/swap.jpeg",
@@ -192,7 +198,6 @@
     "posts/how-to-targz/how-to-targz.md",
     "swap.jpeg",
     "posts/linux-swap",
-    "README.md",
     "posts/how-to-targz"
   ]
 }
