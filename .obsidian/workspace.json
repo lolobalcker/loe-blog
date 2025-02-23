@@ -15,7 +15,7 @@
               "state": {
                 "file": "posts/batatinha/batatinha.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "batatinha"
@@ -181,10 +181,10 @@
   },
   "active": "91d9011380c343cf",
   "lastOpenFiles": [
-    "posts/batatinha/pochaco.webp",
-    "posts/batatinha/pochaco.webp.opdownload",
     "posts/first-post/first-post.md",
     "posts/batatinha/batatinha.md",
+    "posts/batatinha/pochaco.webp",
+    "posts/batatinha/pochaco.webp.opdownload",
     "posts/batatinha",
     "README.md",
     "posts/first-post/sonic.gif",
