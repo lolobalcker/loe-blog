@@ -1,4 +1,4 @@
-# [my personal blog](https://luis-ota.github.io/luis-blog/)
+# [my personal blog](https://lolobalcker.github.io/loe-blog/)
 
 welcome to my personal blog! i will post things that i thing is cool. 
 
