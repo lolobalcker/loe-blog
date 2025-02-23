@@ -11,14 +11,10 @@
             "id": "c512f382662751be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/linux-swap/linux-swap.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "linux-swap"
+              "title": "New tab"
             }
           }
         ]
@@ -144,8 +140,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -153,19 +149,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c512f382662751be",
   "lastOpenFiles": [
-    "posts/how-to-targz/how-to-targz.md",
     "posts/linux-swap/linux-swap.md",
+    "posts/how-to-targz/how-to-targz.md",
     "swap.jpeg",
     "posts/first-post/fisrt-post.md",
     "posts/linux-swap",
