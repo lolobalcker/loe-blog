@@ -7,8 +7,4 @@ img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwZchKXB240kOFytuhM
 # esse e meu primeiro post
 
 
-
-![snoopy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwZchKXB240kOFytuhMU84zgYk8-Ln8WyJqmzsoKlhNRE8z8KU_dOA6L4&s=10)
-
-
-
+![snoopy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwZchKXB240kOFytuhMU84zgYk8-Ln8WyJqmzsoKlhNRE8z8KU_dOA6L4&s=10),
